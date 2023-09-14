@@ -22,7 +22,7 @@ echo.
 :: Run the PowerShell script
 echo Launching WhaGoWan...
 @echo on
-PowerShell -NoProfile -ExecutionPolicy Bypass -File ".\main.ps1"
+PowerShell -NoProfile -ExecutionPolicy Bypass -File ".\whagowan.ps1"
 @echo off
 
 :: Exiting
