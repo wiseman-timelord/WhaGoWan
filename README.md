@@ -60,26 +60,6 @@ Event ID: 102
 Time: 09/14/2023 20:40:08
 Log: System
 Message: Networking driver in Virtual Machine is loaded and the protocol version is negotiated to the most recent version (Virtual machine ID 30603F74-5DAE-44A8-8295-D3F17CC01AEB).
-----------------------------------------
-Event ID: 232
-Time: 09/14/2023 20:40:07
-Log: System
-Message: NIC 30603F74-5DAE-44A8-8295-D3F17CC01AEB--FC785225-9131-5661-AC0C-3A157C61AE15 (Friendly Name: ) successfully connected to port 5BB5E2FB-2F0C-407D-A0CF-20CA73861149 (Friendly Name: 47788615-04F5-4A31-8C97-A2BD055FF0B5) on switch BB0FE877-ADA8-4187-9D9F-F30643A2578B(Friendly Name: WSL).
-----------------------------------------
-Event ID: 233
-Time: 09/14/2023 20:40:07
-Log: System
-Message: The operation 'Create' succeeded on nic 30603F74-5DAE-44A8-8295-D3F17CC01AEB--FC785225-9131-5661-AC0C-3A157C61AE15 (Friendly Name: ).
-----------------------------------------
-Event ID: 264
-Time: 09/14/2023 20:40:07
-Log: System
-Message: Port 5BB5E2FB-2F0C-407D-A0CF-20CA73861149 (Friendly Name: 47788615-04F5-4A31-8C97-A2BD055FF0B5) successfully created on switch BB0FE877-ADA8-4187-9D9F-F30643A2578B (Friendly Name: WSL).
-----------------------------------------
-Event ID: 16
-Time: 09/14/2023 20:32:16
-Log: System
-Message: The access history in hive \??\C:\Users\Mastar\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Settings\settings.dat was cleared updating 5 keys and creating 1 modified pages.
 ```
 
 
