@@ -19,7 +19,7 @@ WhaGoWan is a Windows utility that combines a batch script and a PowerShell scri
 3. The script will automatically fetch, sort, and display the events.
 
 ## Output
-Looks like this (snippet)...
+Looks like this (shortened)...
 ```
 D:\WhaGoWan>PowerShell -NoProfile -ExecutionPolicy Bypass -File ".\whagowan.ps1"
 Script started.
