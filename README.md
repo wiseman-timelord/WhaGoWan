@@ -49,12 +49,12 @@ Message: The start type of the Background Intelligent Transfer Service service w
 Event ID: 233
 Time: 09/14/2023 20:43:46
 Log: System
-Message: The operation 'Delete' succeeded on nic 30603F74-5DAE-44A8-8295-D3F17CC01AEB--FC785225-9131-5661-AC0C-3A157C61AE15 (Friendly Name: ).
+Message: The operation 'Delete' succeeded on nic ***content removed for WhaGoWan demonstration of output*** (Friendly Name: ).
 ----------------------------------------
 Event ID: 234
 Time: 09/14/2023 20:43:46
 Log: System
-Message: NIC 30603F74-5DAE-44A8-8295-D3F17CC01AEB--FC785225-9131-5661-AC0C-3A157C61AE15 successfully disconnected from port .
+Message: NIC ***content removed for WhaGoWan demonstration of output*** successfully disconnected from port .
 ----------------------------------------
 Event ID: 102
 Time: 09/14/2023 20:40:08
