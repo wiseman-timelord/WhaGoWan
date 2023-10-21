@@ -59,7 +59,7 @@ Message: NIC ***content removed for WhaGoWan demonstration of output*** successf
 Event ID: 102
 Time: 09/14/2023 20:40:08
 Log: System
-Message: Networking driver in Virtual Machine is loaded and the protocol version is negotiated to the most recent version (Virtual machine ID 30603F74-5DAE-44A8-8295-D3F17CC01AEB).
+Message: Networking driver in Virtual Machine is loaded and the protocol version is negotiated to the most recent version (Virtual machine ID ***content removed for WhaGoWan demonstration of output***).
 ```
 
 
