@@ -1,5 +1,6 @@
 # WhaGoWan
-Status: Working.
+## Status:
+Working(ish). The batches for this program may only run on Windows 10 due to the different PowerShell launch commands required for various OS versions, that microsoft have bizarly chosen to use for each OS, and may cause endless launch loop on other systems.
 
 ## Description
 WhaGoWan is a Windows utility that combines a batch script and a PowerShell script to fetch and display the last 25 events from the "Application" and "System" logs. Designed to give you a quick overview of recent system activities, it sorts the events by time and displays the top 50 sorted events in the console. This is a great application for people whom may have a health case of paranoia in this day and age, about things such as un-authorised direct access to their computer.
